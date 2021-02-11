@@ -14,8 +14,9 @@ The pipeline of model is shown below. The model is trained on Kaggle dataset. Us
 ![image](https://user-images.githubusercontent.com/69388951/107684645-d5b91b00-6cc4-11eb-994e-37141aef83f6.png)
 
 
-The working of YOLO V3 is shown in below figure. 
 
+
+The working of YOLO V3 is shown in below figure. 
 
 ![image](https://user-images.githubusercontent.com/69388951/107684676-e073b000-6cc4-11eb-8c80-9bb1a3fa4974.png)
 
@@ -26,3 +27,9 @@ Pytesseract is an optical character recognition (OCR) tool for python. It recogn
 
 ## Output
 
+
+![image](https://user-images.githubusercontent.com/69388951/107685126-7576a900-6cc5-11eb-8f7c-5018ba58d170.png)
+
+
+
+![image](https://user-images.githubusercontent.com/69388951/107685152-7b6c8a00-6cc5-11eb-9b8d-5e352687ae6d.png)
