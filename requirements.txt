@@ -1,0 +1,7 @@
+python==3.6.9
+numpy==1.19.5
+tensorflow==1.13.1
+OpenCV==4.0.0	
+Pytesseract==0.1.3
+glob
+random
