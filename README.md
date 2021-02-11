@@ -3,3 +3,10 @@
 ANPR is process of recognizing the characters of number plate of a vehicle. The project has two modules Number plate detection, Character recognition. Number plate Detection is done through YOLO V3 model. The model is trained on Kaggle data set available on Kaggle website. Character recognition is done using Pytesseract.
 
 ## Flow Chart
+
+![image](https://user-images.githubusercontent.com/69388951/107684339-7c50ec00-6cc4-11eb-9614-a19d80c25a44.png)
+
+## YOLO V3
+
+
+The pipeline of model is shown below. The model is trained on Kaggle dataset. Use this link to download dataset https://www.kaggle.com/andrewmvd/car-plate-detection. The data is annotated through Label image tool. It is a graphical image annotation tool. It is used to label objects in images. The tool returns files in XML which has images coordinates, height and width.  The model is trained on images and their corresponding XML files. 
