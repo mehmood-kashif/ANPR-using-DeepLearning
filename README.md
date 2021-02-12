@@ -27,8 +27,7 @@ Pytesseract is an optical character recognition (OCR) tool for python. It recogn
 
 ## Output
 
-
-![image](https://user-images.githubusercontent.com/69388951/107685126-7576a900-6cc5-11eb-8f7c-5018ba58d170.png)
+![ss](https://user-images.githubusercontent.com/69388951/107814389-a3c2ba00-6d93-11eb-8732-93cfaa63b74f.png)
 
 
 
